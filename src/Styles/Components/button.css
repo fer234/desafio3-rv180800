@@ -1,0 +1,11 @@
+.btn{
+    @apply px-10; 
+}
+
+.btn.btn-primary{
+    @apply bg-green-600;
+}
+
+.input-group{
+    width: 200px;
+}
